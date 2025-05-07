@@ -1,5 +1,5 @@
-## Doge Unblocker
-Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our service allows you to **get around internet restrictions** to visit your favorite sites and apps, without worrying about your browsing history being saved or your internet being blocked.
+## Quackel Unblocker
+Quackel Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our service allows you to **get around internet restrictions** to visit your favorite sites and apps, without worrying about your browsing history being saved or your internet being blocked.
 ### Key Features:
 <details>
 <summary>View All Features</summary>
@@ -36,8 +36,7 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 </details>
 
 ### Current Developers:
-- [Derpman](https://github.com/derpbyte)
-- [fowntain](https://github.com/fowntain)
+- Quackel
 ### Deployment
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/template/h7StcI?referralCode=u82tqg)
 <a href="https://render.com/deploy?repo=https://github.com/dogenetwork/v4">
